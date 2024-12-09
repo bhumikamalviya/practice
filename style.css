@@ -1,0 +1,87 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+   width: 100%;
+   height: 600px;
+    background-image: url(https://img.freepik.com/premium-photo/black-wooden-acoustic-guitar-with-blank-space-yours-design-black-background-3d-rendering_476612-6897.jpg?ga=GA1.1.2046536249.1732607847&semt=ais_hybrid);
+         background-size:cover;
+   background-position:center;
+   background-repeat: no-repeat;
+}
+
+h1{
+    color:blanchedalmond;
+     font-size: 80px;
+     font-family: 'Lucida Sans', Arial, sans-serif, sans-serif;
+     padding-left: 500px;
+     margin-top: 50px;
+    }
+
+.all{
+    width: 100%;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content:space-evenly;
+    margin-top: 260px;
+    
+}
+.btn{
+    width: 130px;
+    height: 130px;
+    border-radius: 10px;
+    border: 3px solid #edf2f4;
+    font-size: 80px;
+    color:white;
+}
+
+
+
+#str1{
+    background-image: url(https://img.freepik.com/premium-photo/snapshot-guitar_931878-357148.jpg?ga=GA1.1.2046536249.1732607847&semt=ais_hybrid);
+    background-size:cover;
+    background-position:center;
+}
+
+
+#str2{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvlWeGbWXWLO8-seuLD9HfFRgA0qkDoROJnw&s);
+    background-size:cover;
+    background-position:center;
+}
+
+
+#str3{
+    background-image: url(https://i.pinimg.com/236x/22/8d/00/228d003d389ea4b65c0c685854625c90.jpg);
+    background-size:cover;
+    background-position:center;
+}
+
+
+#str4{
+    background-image: url(https://img.freepik.com/premium-photo/black-wooden-acoustic-guitar-black-background-3d-rendering_476612-6893.jpg?ga=GA1.1.2046536249.1732607847&semt=ais_hybrid);
+    background-size:cover;
+    background-position:center;
+}
+
+
+#str5{
+    background-image: url(https://img.freepik.com/free-photo/guitar-strings-inspire-abstract-musical-backdrop-illustration-generated-by-ai_188544-19597.jpg?ga=GA1.1.2046536249.1732607847&semt=ais_hybrid);
+    background-position:center;
+}
+
+
+#str6{
+    background-image: url(https://img.freepik.com/free-photo/head-neck-electric-guitar_23-2147781781.jpg?ga=GA1.1.2046536249.1732607847&semt=ais_hybrid);
+    background-size: cover;
+    background-position:center;
+}
+
+
+.animation {
+    box-shadow: 0 3px 4px 0 #DBEDF3;
+    opacity: 0.5;
+}
